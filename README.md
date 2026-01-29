@@ -22,10 +22,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFA-AKHTER&show_icons=true&theme=radical&hide_border=false" alt="Sharifa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFA-AKHTER&layout=compact&theme=radical&hide_border=false" alt="Sharifa's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFA-AKHTER&show_icons=true&theme=radical" alt="Sharifa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFA-AKHTER&layout=compact&theme=radical" alt="Sharifa's Top Languages" />
 </p>
-
 ## 📬 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sharifa-akhter-dev/" target="blank">
