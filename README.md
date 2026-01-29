@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sharifa Akhter 
 
 <p align="center">
-  <img src="https://i.ibb.co.com/Xr6RtM9P/SHARIFA-3.png" alt="Sharifa Banner" width="100%" />
+  <img src="https://i.ibb.co.com/ZRZjZ6Yd/SHARIFA.png" alt="Sharifa Banner" width="100%" />
 </p>
 
 ### Full-Stack Developer | Passionate about Performance, Security, and Scalable Backend Systems
@@ -22,8 +22,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFA-AKHTER&show_icons=true&theme=radical" alt="Sharifa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFA-AKHTER&layout=compact&theme=radical" alt="Sharifa's Top Languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=SHARIFA-AKHTER&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=SHARIFA-AKHTER&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 ## 📬 Connect with me:
 <p align="left">
