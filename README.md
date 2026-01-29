@@ -20,10 +20,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,prisma,aws,postgresql,github,docker,figma" />
 </p>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFA-AKHTER&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFA-AKHTER&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHARIFA-AKHTER&show_icons=true&theme=radical&hide_border=false" alt="Sharifa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFA-AKHTER&layout=compact&theme=radical&hide_border=false" alt="Sharifa's Top Languages" />
 </p>
 
 ## 📬 Connect with me:
