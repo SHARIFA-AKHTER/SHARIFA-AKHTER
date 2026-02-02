@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sharifa Akhter 
 
 <p align="center">
-  <img src="https://i.ibb.co.com/ZRZjZ6Yd/SHARIFA.png" alt="Sharifa Banner" width="100%" />
+  <img src="https://i.ibb.co.com/PvhNpQnk/Linkdin-Banner.png" alt="Sharifa Banner" width="100%" />
 </p>
 
 ### Full-Stack Developer | Passionate about Performance, Security, and Scalable Backend Systems
