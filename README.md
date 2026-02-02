@@ -27,12 +27,12 @@
 </p>
 ## 📬 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/sharifa-akhter-dev/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="mailto:sr0589071@gmail.com" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/sharifa-akhter-dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="mailto:sr0589071@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
+  </a>
 </p>
 
 ---
